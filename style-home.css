@@ -1,0 +1,56 @@
+.tituloprincipal {
+    padding-left: 30px;
+}
+
+#banner { 
+    width:100%;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 10px;
+}
+
+.titulocentralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+s {
+    text-decoration: underline;
+}
+
+tamanhofuente {
+    font-size: 20px;
+}
+
+strong em {
+    color: #000000;
+}
+
+ul { 
+    text-align: left;
+}
+
+.diferenciales {
+    text-align: center;
+    background: #CCCCCC;
+    padding: 10px;
+}
+
+.items {
+    font-style: italic;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagendiferenciales {
+    width: 50%;
+}
